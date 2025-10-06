@@ -1,0 +1,2 @@
+class exercice1 {
+}
